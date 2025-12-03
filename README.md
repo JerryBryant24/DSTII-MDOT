@@ -3,9 +3,9 @@
 This project hosts the code for implementing the DSTII-MDOT algorithm of the 2025 IEEE Internet of Things Journal paper:
 ```
 Dynamic Spatiotemporal Information Interaction for Multi-drone Object Tracking
-![image](https://github.com/JerryBryant24/DSTII-MDOT/blob/main/2.png)
+!(https://github.com/JerryBryant24/DSTII-MDOT/blob/main/2.png?raw=true)
 
-![image](https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg)
+
 
 
 Multi-drone object tracking (MDOT) has emerged as a key enabling technology in Internet of Things (IoT)-based aerial sensing systems. By enabling cross-drone information sharing, collaborative trackers effectively mitigate the limitations of single-view object trackers in handling occlusion and object disappearance. However, most existing methods overlook both the temporal continuity across consecutive frames and the spatial complementarity across heterogeneous drone perspectives, which restricts their robustness and scalability in large-scale IoT scenarios.
